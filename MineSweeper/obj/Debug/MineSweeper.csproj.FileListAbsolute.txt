@@ -1,0 +1,9 @@
+C:\Users\Olaf\Desktop\Projekty\MineSweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\Olaf\Desktop\Projekty\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojResolveAssemblyReference.cache
+C:\Users\Olaf\Desktop\Projekty\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\Olaf\Desktop\Projekty\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.Cache
+C:\Users\Olaf\Desktop\Projekty\MineSweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\Olaf\Desktop\Projekty\MineSweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\Olaf\Desktop\Projekty\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\Olaf\Desktop\Projekty\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\Olaf\Desktop\Projekty\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.form1.resources
